@@ -11,7 +11,7 @@ const Header = () => {
      
       <div className="header__search">
         <div className="header__searchContainer">
-
+          <input type="text" placeholder='Search'/>
         </div>
       </div>
       {/* menuitems */}
