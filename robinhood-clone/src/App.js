@@ -11,7 +11,7 @@ function App() {
       <div className="app_body">
         <div className="app__container">
           <Newsfeed />
-          {/* stats */}
+          <Stats />
         </div>
       </div>
     </div>
